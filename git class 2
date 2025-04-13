@@ -1,4 +1,9 @@
 void main () {
-    print "Pakistan Zindabad"
-    print "Pakistan Paindabad"
+ //   print "Pakistan Zindabad"
+ //   print "Pakistan Paindabad"
+ int num1 = 10
+ int num2 = 10
+ print(num1);
+ print(num2);
+ string? stdNamw
 }
