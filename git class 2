@@ -1,3 +1,4 @@
 void main () {
     print "Pakistan Zindabad"
+    print "Pakistan Paindabad"
 }
